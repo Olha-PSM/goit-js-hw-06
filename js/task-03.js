@@ -25,4 +25,4 @@ galleryEl.style.display = "blok";
 galleryEl.style.listStyle = 'none';
 galleryEl.style.gap = "10px";
 
-console.log(galleryEl);
+
